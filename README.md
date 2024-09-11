@@ -19,7 +19,7 @@ San Andreas: MultiPlayer (SA:MP) is a multiplayer modification of Rockstar North
 - [C#](#csharp)
 - [Python](#python)
 - [Lua](#lua)
-- Java(#java)
+- [Java](#java)
 - [Other](#other)
 
 ## Contributing
@@ -28,7 +28,7 @@ To add any resource just create a pull request. If you are adding a resource, it
 
 ## Pawn
 - [pawn-lang/compiler](https://github.com/pawn-lang/compiler) -  modified version of the Pawn 3.2.3664 compiler with many bug fixes and enhancements.
-- 
+  
 ## C++
 - [sampgdk](https://github.com/Zeex/sampgdk) - GDK (Gamemode Development Kit) is a C/C++ library that allows you to write SA-MP gamemodes in C/C++.
 
